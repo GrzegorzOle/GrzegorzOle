@@ -15,4 +15,4 @@ on the side.
 Two threads, one habit: get the boring infrastructure right, then let
 it disappear into the background for the people who actually need it.
 
-📝 [Blog](https://cdest.eu) · 💼 [LinkedIn](https://www.linkedin.com/in/grzegorz-oleksy-63062179/)
+📝 [Blog](https://cdest.eu/blog/) · 💼 [LinkedIn](https://www.linkedin.com/in/grzegorz-oleksy-63062179/)
